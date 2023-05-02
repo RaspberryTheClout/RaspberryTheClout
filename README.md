@@ -12,8 +12,6 @@
   </a>
   </div>
   <a href="https://www.buymeacoffee.com/raspberryclout" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</div>
-<div align="center"
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
     <h1>
